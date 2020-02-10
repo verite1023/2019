@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="utf-8">
+  <title> YEA'S PORTFOLIO - main </title>
+  <link rel="stylesheet" href="css/fullpage.css">
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- 파비콘 -->
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="apple-touch-icon" href="assets/ico/icon_57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/ico/icon_114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/ico/icon_72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/ico/icon_144.png">
+
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="js/html5shiv.min.js"></script>
+  <![endif]-->
+  <script src="js/jquery-1.12.4.min.js"></script>
+  <script src="js/fullpage.min.js"></script>
+  <script src="js/modal.js"></script>
+  <script src="js/script.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('#fullpage').fullpage({
+        navigation: false
+      });
+    });
+  </script>
+</head>
+
+<body>
+    <!-- 마우스커서 -->
+    <div class="cursor mouse"></div>
+    <div class="cursor-follower mouse"></div>
+    <!-- // 마우스커서 -->
+
+    <!-- contact me 모달 -->
+    <div id="modal" class="openModal">
+        <div class="modal_txt">
+            <div class="mTxt">
+                <h3>CONTACT</h3>
+                <ul>
+                    <li>Kakao ID : 1120ye</li>
+                    <li><a href="mailto:veritedy@naver.com" target="_blank">veritedy@naver.com</a></li>
+                </ul>
+            </div>
+            <button class="close_btn" type="button"></button>
+        </div>
+    </div>
+
+    <div id="fixed">
+        <div class="logo p_f m">
+            <a href="index.html"><h1 class="blind">YEA'S PORTFOLIO</h1></a>
+        </div>
+
+        <a class="ham_menu p_f">
+            <div class="icon"></div>
+        </a>
+        <div class="menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutme.html">About me</a></li>
+                <li><a href="project.html">Project</a></li>
+                <li class="open_btn">Contact</li>
+            </ul>
+        </div>
+
+        <div class="sidenav p_f">
+            <ul>
+                <li><a href="" target="_blank"><img src="images/main/github.png" alt="깃허브"></a></li>
+                <li><a href="https://codepen.io/verite1023" target="_blank"><img src="images/main/codepen.png" alt="코드펜"></a></li>
+                <li><a href="https://veritedy.tistory.com" target="_blank"><img src="images/main/tistory.png" alt="티스토리"></a></li>
+                <li><a href="http://veritedy.dothome.co.kr/" target="_blank"><img src="images/main/dothome.png" alt="닷홈"></a></li>
+            </ul>
+        </div>
+        <div class="scroll">
+            <div class="scroll-screen"></div>
+            <div class="mouse_scroll">
+                <div>
+                    <span class="scroll_arrows fir"></span>
+                    <span class="scroll_arrows sec"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="wrap">
+        <div id="fullpage">
+            <div class="section main">
+                <div class="text_intro"><h2>HELLO</h2></div>
+                <h3 class="text_anime">
+                    <span class="text_container">
+                        <span class="changing">WELCOME !</span>
+                        <span class="changing">I'm Do Yea</span>
+                        <span class="changing">WEB DESINER & PUBLISHER</span>
+                        <span class="changing">Thank you for visiting my portfolio</span>
+                    </span>
+                </h3>
+            </div>
+            
+            <div class="section about">
+                <a href="aboutme.html"><h2>About me</h2></a>
+                <div class="bg_container">
+                    <div class="bg1 blind">나</div>
+                </div>
+            </div>
+            
+            <div class="section project">
+                <a href="project.html"><h2>Project</h2></a>
+                <div class="bg_container">
+                    <div class="bg1 blind">프로젝트1</div>
+                    <div class="bg2 blind">프로젝트2</div>
+                    <div class="bg3 blind">프로젝트3</div>
+                    <div class="bg4 blind">프로젝트4</div>
+                    <div class="bg5 blind">프로젝트5</div>
+                </div>
+            </div>
+
+            <div class="section contact">
+                <div class="contact">
+                    <div class="con_form">
+                        <h4>SEND A MESSAGE</h4>
+                        <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/veritedy@naver.com" method="post">
+                            <fieldset id="fs-frm-inputs">
+                                <label for="full-name" class="ir_so">Name</label>
+                                <input type="text" name="name" id="full-name" placeholder="*YOUR NAME" required="" class="name">
+                                <label for="email-address" class="ir_so">Email Address</label>
+                                <input type="email" name="_replyto" id="email-address" placeholder="*YOUR E-MAIL" required="" class="email">
+                                <label for="message" class="ir_so">Message</label>
+                                <textarea rows="5" name="message" id="message" placeholder="*MESSAGE" required=""></textarea>
+                                <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+                                <input class="submit" type="submit" value="SEND">
+                            </fieldset>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <footer class="section fp-auto-height">
+                <div class="footer">
+                    <div class="footer_text">
+                        <p>DOYEA'S PORTFOLIO</p><address>veritedy@naver.com</address>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+</body>
+
+</html>
