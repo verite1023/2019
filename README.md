@@ -11,7 +11,7 @@ yea's portpolio
 <a href="https://verite1023.github.io/">view</a>
 
 <h3>메가박스</h3>
-<a href="https://verite1023.github.io/">view</a>
+<a href="https://verite1023.github.io/yea/mega/index.html">view</a>
 
 <h3>달달해 Mobile</h3>
 <a href="https://verite1023.github.io/">view</a>
