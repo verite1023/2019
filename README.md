@@ -1,7 +1,8 @@
 yea's portpolio
 
 <h3>닷홈 사이트</h3>
-<a href="https://verite1023.github.io/">view</a>
+<a href="https://verite1023.github.io/yea/dothome/html/index.html
+">view</a>
 
 <h3>웹 표준 사이트</h3>
 <a href="https://verite1023.github.io/">view</a>
