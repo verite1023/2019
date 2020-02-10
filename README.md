@@ -1,6 +1,4 @@
-#verite1023
-
-yea's portpolio
+<h2>yea's portpolio</h2>
 
 <h3>포트폴리오</h3>
 <a href="https://verite1023.github.io/yea/Ye's photopolio/index.html
