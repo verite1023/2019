@@ -17,7 +17,7 @@
 <a href="https://verite1023.github.io/yea/HTML/webstandard/index.html">view</a>
 
 <h3>반응형 사이트</h3>
-<a href="https://verite1023.github.io/">view</a>
+<a href="https://verite1023.github.io/yea/HTML/responsive/index.html">view</a>
 
 <h3>메가박스</h3>
 <a href="https://verite1023.github.io/yea/mega/index.html">view</a>
