@@ -14,7 +14,7 @@
 <a href="https://verite1023.github.io/yea/HTML/index.html">view</a>
 
 <h3>웹 표준 사이트</h3>
-<a href="https://verite1023.github.io/">view</a>
+<a href="https://verite1023.github.io/yea/HTML/webstandard/index.html">view</a>
 
 <h3>반응형 사이트</h3>
 <a href="https://verite1023.github.io/">view</a>
