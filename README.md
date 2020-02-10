@@ -10,14 +10,8 @@
 <h3>달달해 PC</h3>
 <a href="https://verite1023.github.io/yea/DALDALHAE_PC/pc_index.html">view</a>
 
-
-
-
-
-
-
 <h3>닷홈 사이트</h3>
-<a href="https://verite1023.github.io/yea/HTML">view</a>
+<a href="https://verite1023.github.io/yea/HTML/index.html">view</a>
 
 <h3>웹 표준 사이트</h3>
 <a href="https://verite1023.github.io/">view</a>
