@@ -97,7 +97,7 @@ margin-right: 7px; vertical-align: 6px;}
 /* new */
 .new { position: relative; padding: 80px 0; }
 .new h2 { font-size: 36px; font-weight: 700; margin-bottom: 20px; }
-.new .new_left { position: relative; margin-right: 420px; height: 596px; background: #ccc url(../img/newL.jpg) center center; background-size: cover; }
+.new .new_left { position: relative; margin-right: 420px; height: 596px; background: #ccc url(../img/new01.jpg) center center; background-size: cover; }
 .new .new_left .play { width: 130px; height: 130px; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); cursor: pointer; }
 .new .new_left .play svg {}
 .new .new_left .play svg .st0 { fill: #fff; stroke: #fff; stroke-width: 1px; }
@@ -140,10 +140,10 @@ margin-right: 7px; vertical-align: 6px;}
 /* service */
 .service ul { overflow: hidden; }
 .service li { float: left; width: 50%; height: 180px; box-sizing: border-box; text-align: center; }
-.service li:nth-child(1) { background: url(../img/icon01.png) no-repeat center center; background-size: 100px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc; }
-.service li:nth-child(2) { background: url(../img/icon02.png) no-repeat center center; background-size: 100px; border-bottom: 1px solid #ccc; }
-.service li:nth-child(3) { background: url(../img/icon03.png) no-repeat center center; background-size: 100px; border-right: 1px solid #ccc; }
-.service li:nth-child(4) { background: url(../img/icon04.png) no-repeat center center; background-size: 100px; }
+.service li:nth-child(1) { background: url(../img/i1.jpg) no-repeat center center; background-size: 100px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc; }
+.service li:nth-child(2) { background: url(../img/i2.jpg) no-repeat center center; background-size: 100px; border-bottom: 1px solid #ccc; }
+.service li:nth-child(3) { background: url(../img/i3.jpg) no-repeat center center; background-size: 100px; border-right: 1px solid #ccc; }
+.service li:nth-child(4) { background: url(../img/i4.jpg) no-repeat center center; background-size: 100px; }
 .service li a { display: block; color: #666; font-size: 18px; padding-top: 140px; }
 
 
@@ -199,10 +199,10 @@ margin-right: 7px; vertical-align: 6px;}
 	.help .help_box3 h3 { display: none; }
 	.help .help_box3 .service { height: auto; }
 	.service li { width: 25%; height: auto; }
-	.service li:nth-child(1) { background: url(../img/icon01.png) no-repeat top 20px center / 80px;border-bottom: 0; border-right: 0; }
-	.service li:nth-child(2) { background: url(../img/icon02.png) no-repeat top 20px center / 80px;border-bottom: 0; }
-	.service li:nth-child(3) { background: url(../img/icon03.png) no-repeat top 20px center / 80px;border-right: 0;}
-	.service li:nth-child(4) { background: url(../img/icon04.png) no-repeat top 20px center / 80px; }
+	.service li:nth-child(1) { background: url(../img/i1.jpg) no-repeat top 20px center / 80px;border-bottom: 0; border-right: 0; }
+	.service li:nth-child(2) { background: url(../img/i2.jpg) no-repeat top 20px center / 80px;border-bottom: 0; }
+	.service li:nth-child(3) { background: url(../img/i3.jpg) no-repeat top 20px center / 80px;border-right: 0;}
+	.service li:nth-child(4) { background: url(../img/i4.jpg) no-repeat top 20px center / 80px; }
 	.service li a { padding-top: 100px; padding-bottom: 10px; }
 	
 }
@@ -280,10 +280,10 @@ margin-right: 7px; vertical-align: 6px;}
 	.help h3 { padding-top: 20px; }
 	.help > article:nth-child(1) h3 { padding-top: 0; }
 
-	.service li:nth-child(1) { background: url(../img/icon01.png) no-repeat top 20px center / 60px;border-bottom: 0; border-right: 0; }
-	.service li:nth-child(2) { background: url(../img/icon02.png) no-repeat top 20px center / 60px;border-bottom: 0; }
-	.service li:nth-child(3) { background: url(../img/icon03.png) no-repeat top 20px center / 60px;border-right: 0;}
-	.service li:nth-child(4) { background: url(../img/icon04.png) no-repeat top 20px center / 60px; }
+	.service li:nth-child(1) { background: url(../img/i1.jpg) no-repeat top 20px center / 60px;border-bottom: 0; border-right: 0; }
+	.service li:nth-child(2) { background: url(../img/i2.jpg) no-repeat top 20px center / 60px;border-bottom: 0; }
+	.service li:nth-child(3) { background: url(../img/i3.jpg) no-repeat top 20px center / 60px;border-right: 0;}
+	.service li:nth-child(4) { background: url(../img/i4.jpg) no-repeat top 20px center / 60px; }
 	.service li a { font-size: 14px; padding-top: 80px; }
 
 }
