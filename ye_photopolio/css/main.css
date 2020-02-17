@@ -199,26 +199,6 @@ h3.text_anime { text-align: center; font-family: ScoreD; font-weight: 300; font-
     100% { opacity: 0; opacity: 0 }
 }
 
-
-/* section skills */
-.section.skills .bg_container .bg1 { position: absolute; left: 20%; width: 461px; height: 461px; background-image: url("../images/main/skills.jpg"); background-size: contain; background-repeat: no-repeat; top: -55%; }
-
-.section.skills .bg_container .bg2 { position: absolute; left: 55%; width: 479px; height: 648px; background-image: url("../images/main/skills2.jpg"); background-size: 449px 608px; top: -80%; }
-
-.section.skills.active .bg_container .bg1 { animation: drop 3.5s 0.2s ease infinite; }
-.section.skills.active .bg_container .bg2 { animation: drop 3.5s ease infinite; }
-
-/* section project */
-.section.project .bg_container .bg1 { position: absolute; left: 20%; width: 446px; height: 742px; background-image: url("../images/main/project1.jpg"); background-size: 446px 742px; top: -106%; }
-
-.section.project .bg_container .bg2 { position: absolute; left: 60%; width: 445px; height: 689px; background-image: url("../images/main/project3.jpg"); background-size: 445px 689px; top: -105%; }
-
-.section.project .bg_container .bg3 { position: absolute; left: 35%; width: 616px; height: 449px; background-image: url("../images/main/project2.jpg"); background-size: 616px 449px; top: -53%; }
-
-.section.project.active .bg_container .bg1 { animation: drop 3.5s 0.2s ease infinite; }
-.section.project.active .bg_container .bg2 { animation: drop 3.5s 0.4s ease infinite; }
-.section.project.active .bg_container .bg3 { animation: drop 3.5s ease infinite; }
-
 /* section contact */
 .con_form h4 { text-align: center; font-size: 4.375em; font-weight: 700; color: #ffc0b3; transition: color 0.5s ease; padding-bottom: 30px;}
 .con_form form { width: 50%; margin: 0 auto; }
