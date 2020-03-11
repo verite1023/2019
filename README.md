@@ -1,7 +1,7 @@
 <h2>yea's portpolio</h2>
 
 <h3>포트폴리오</h3>
-<a href="https://verite1023.github.io/2019/portpolio/index.html">view</a>
+<a href="https://verite1023.github.io/2019/portolio/index.html">view</a>
 
 <h3>달달해 Mobile</h3>
 <a href="https://verite1023.github.io/2019/DALDALHAE_MB/m_index.html">view</a>
